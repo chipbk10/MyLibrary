@@ -1,6 +1,9 @@
 # Finder droppings, in any directory.
 .DS_Store
 
+# Build
+.build
+
 # Ignore user-specific workspace settings.
 **/xcuserdata/**
 **/*.xccheckout
